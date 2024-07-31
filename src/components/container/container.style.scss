@@ -1,0 +1,29 @@
+.container {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #f7e300;
+    padding: 100px;
+    margin: 200px;
+    margin-top: 180px;
+
+.container-description {
+    h2 {
+        font-size: 3rem;
+    }
+    p {
+        font-size: 2rem;
+        font-family: 'Courier New';
+        padding: 10px;
+        color: #000000;
+    }   
+}
+.btn {
+    background-color: #000000;
+    color: #f7e300;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 1rem;
+    
+    }
+}
